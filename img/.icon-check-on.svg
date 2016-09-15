@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27" height="23" viewBox="0 0 27 23">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 28px;
+        fill: #c1c1c1;
+        font-family: symbols-technomart, symbols;
+      }
+    </style>
+  </defs>
+  <text id="_.icon-check-on" data-name=".icon-check-on" class="cls-1" x="0.283" y="22.004">☑</text>
+</svg>
